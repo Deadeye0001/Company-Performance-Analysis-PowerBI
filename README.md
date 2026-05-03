@@ -68,7 +68,7 @@ The dashboard helps identify:
 
 # Dashboard Preview
 
-![company-performance-dashboard](images/customer dashboard.png)
+![company-performance-dashboard](images/customer%20dashboard.png)
 
 ---
 
