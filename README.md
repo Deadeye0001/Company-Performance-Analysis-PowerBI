@@ -80,6 +80,8 @@ Company-Performance-Analysis-PowerBI/
 ├── images/
 │   └── company-performance-dashboard.png
 │
+├── dataset
+|
 ├── Company_Performance_Analysis.pbix
 │
 └── README.md
@@ -102,6 +104,3 @@ Through this project, I practiced:
 - Business insight generation
 - Data storytelling
 
----
-
-Thank you for visiting
