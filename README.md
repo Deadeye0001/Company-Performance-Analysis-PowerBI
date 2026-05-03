@@ -81,7 +81,7 @@ Company-Performance-Analysis-PowerBI/
 │   └── company-performance-dashboard.png
 │
 ├── dataset
-|
+│
 ├── Company_Performance_Analysis.pbix
 │
 └── README.md
